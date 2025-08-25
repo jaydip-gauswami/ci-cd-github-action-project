@@ -37,3 +37,4 @@ docker-compose up --build
   - Run tests
   - Build Docker image
   - Push to Docker Hub (requires repo secrets)
+trigger workflow
