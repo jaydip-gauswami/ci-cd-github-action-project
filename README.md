@@ -10,7 +10,7 @@ npm install
 npm start
 ```
 
-Visit: http://localhost:3000
+Visit: http://13.201.184.141:3000
 
 ## Run tests
 
